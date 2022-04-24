@@ -294,6 +294,16 @@ grid-template-areas:
 
 }
 
+.gradiente{
+
+    transition: all 2s ;
+
+}
+.scale:hover{
+    transform: scale(1.1,1.1);
+    border-radius: 30px;
+} 
+
 
 .blog_nota{
 
